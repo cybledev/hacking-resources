@@ -2,6 +2,7 @@
 
 ### Footprinting and reconnaissance
  * [ARIN whois database search](https://account.arin.net/public): Locate the network range.
+ * [Odin](https://odin.io): Internet Scanner across Hosts, IP Services, Certificates, Exposed Files & Buckets, Subdomains etc.
  * [awesome-osint](https://github.com/jivoi/awesome-osint): A curated list of amazingly awesome OSINT.
  * [BuzzSumo](https://buzzsumo.com/): Find the most shared content for a topic, author, or a domain.
  * [Censys](https://censys.io/): Full view of every server and device exposed.
